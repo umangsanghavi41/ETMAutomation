@@ -1,0 +1,75 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e3]:
+  - navigation [ref=e4]:
+    - button [ref=e6] [cursor=pointer]:
+      - generic [ref=e7]: 
+    - list [ref=e8]:
+      - button "Logout" [ref=e9] [cursor=pointer]:
+        - generic [ref=e10]: 
+  - generic [ref=e11]:
+    - navigation [ref=e13]:
+      - generic [ref=e15]:
+        - img "ETM-logo" [ref=e17]
+        - link "Dashboard" [ref=e18] [cursor=pointer]:
+          - /url: /*
+          - generic [ref=e20]: 
+          - text: Dashboard
+        - generic [ref=e21] [cursor=pointer]:
+          - generic [ref=e23]: 
+          - text: Admin
+          - generic [ref=e25]: 
+        - text:        
+        - generic [ref=e26] [cursor=pointer]:
+          - generic [ref=e28]: 
+          - text: Merchandising
+          - generic [ref=e30]: 
+        - text:       
+        - generic [ref=e31] [cursor=pointer]:
+          - generic [ref=e33]: 
+          - text: Attraction Master
+          - generic [ref=e35]: 
+        - text:    
+        - generic [ref=e36] [cursor=pointer]:
+          - generic [ref=e38]: 
+          - text: Master
+          - generic [ref=e40]: 
+        - text:                       
+        - generic [ref=e41] [cursor=pointer]:
+          - generic [ref=e43]: 
+          - text: Notification Panel
+          - generic [ref=e45]: 
+        - text: 
+        - generic [ref=e46] [cursor=pointer]:
+          - generic [ref=e48]: 
+          - text: Package Creation
+          - generic [ref=e50]: 
+        - text:   
+        - generic [ref=e51] [cursor=pointer]:
+          - generic [ref=e53]: 
+          - text: Booking Transaction
+          - generic [ref=e55]: 
+        - text: 
+        - generic [ref=e56] [cursor=pointer]:
+          - generic [ref=e58]: 
+          - text: All Bookings
+          - generic [ref=e60]: 
+        - text:  
+        - generic [ref=e61] [cursor=pointer]:
+          - generic [ref=e63]: 
+          - text: Career
+          - generic [ref=e65]: 
+        - text:  
+        - generic [ref=e66] [cursor=pointer]:
+          - generic [ref=e68]: 
+          - text: GIT Inventory
+          - generic [ref=e70]: 
+        - text:    
+        - generic [ref=e71] [cursor=pointer]:
+          - generic [ref=e73]: 
+          - text: Activities
+          - generic [ref=e75]: 
+        - text: 
+    - heading "Welcome Admin" [level=1] [ref=e79]
+```

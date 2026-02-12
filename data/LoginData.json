@@ -1,0 +1,13 @@
+[
+{
+  "validusername":"Admin",
+  "validpassword":"Admin",
+  "testName":"validdata"
+},
+  {
+  
+  "invalidusername":"Test",
+  "invalidpassword":"Test123",
+  "testName":"invaliddata"
+  }
+]
