@@ -50,4 +50,3 @@ test.only("Validate login with invalid login details", async()=>{
     const result=await login.verifyInvalidCredentialsValidation();
     expect(result).toBeTruthy();
 })
-ddddfd
